@@ -1,0 +1,18 @@
+.btn-group{
+    margin-left: 8.7rem;
+    
+}
+.btn-info{
+    border-radius: 50px;
+     background-color: crimson;        
+    
+}
+
+.btn-info:hover{
+    
+  background-color: darkgrey;
+}
+
+.btn-outline-secondary{
+    border-radius: 50px;
+}
