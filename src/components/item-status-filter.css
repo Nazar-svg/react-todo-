@@ -1,18 +1,16 @@
-.btn-group{
+.btn-group {
     margin-left: 8.7rem;
-    
 }
-.btn-info{
+
+.btn-info {
     border-radius: 50px;
-     background-color: crimson;        
-    
+    background-color: crimson;
 }
 
-.btn-info:hover{
-    
-  background-color: darkgrey;
+.btn-info:hover {
+    background-color: rgb(169, 169, 169);
 }
 
-.btn-outline-secondary{
+.btn-outline-secondary {
     border-radius: 50px;
 }
