@@ -1,10 +1,10 @@
 .btn-group {
-    margin-left: 8.7rem;
+    margin-left: 2.7rem;
 }
 
 .btn-info {
     border-radius: 50px;
-    background-color: crimson;
+    background-color: rgb(61, 141, 194);
 }
 
 .btn-info:hover {
